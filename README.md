@@ -13,3 +13,7 @@ sitrep.Rmd
 Wolfman
 Dracula
 Bethanie
+
+##Now make a change and commit it
+
+Enjoy learning how to use github!
