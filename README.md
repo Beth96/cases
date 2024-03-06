@@ -4,16 +4,16 @@ Following this tutorial
 
 https://epiverse-trace.github.io/git-rstudio-basics/#install-r-packages
 
-##Files
+## Files
 
 sitrep.Rmd
 
-##Authors
+## Authors
 
 Wolfman
 Dracula
 Bethanie
 
-##Now make a change and commit it
+## Now make a change and commit it
 
 Enjoy learning how to use github!
